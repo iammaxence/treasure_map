@@ -1,0 +1,7 @@
+C - 4 - 4
+M - 0 - 1
+M - 1 - 1
+M - 3 - 1
+T - 1 - 2 - 2
+A - Lara - 0 - 0 - S - GAADADAAGADA
+A - Toto - 0 - 2 - S - GAADADAAGADA
